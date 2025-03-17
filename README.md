@@ -7,4 +7,4 @@ This is a simple one-page website featuring a functional lightbox (modal image g
 - JavaScript for lightbox functionality
 
 ## Live Preview
-[Click here to view](https://your-username.github.io/your-repo-name/)
+[Click here to view](https://)
